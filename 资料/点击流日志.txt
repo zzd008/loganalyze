@@ -1,0 +1,40 @@
+http://mercury.jd.com/log.gif?t=rec.610010&v=src=rec$action=0$reqsig=4d0484ea7f69ca2496a97b7d681064eca26be1e3$enb=1$csku=501917,524634,534986,512269,529987,534621,536815,518914$st=0,0,0,0,0,0,0,0$sku=0$p=610010$pin=$uuid=130892713$expid=103$gm=$rt=0,0,0,0,0,0,0,0&rid=5734859099506332878&ver=1&sig=fea3b581d3eade1e30c7b11814e091a55de988fe&m=UA-J2011-1&ref=&random=0.873558429768309
+
+http://mercury.jd.com/log.gif?t=other.000000&m=UA-J2011-1&pin=-&uid=130892713&sid=130892713|2&v=je=1$sc=32-bit$sr=1366x768$ul=zh-cn$cs=GBK$dt=京东(JD.COM)-综合网购首选-正品低价、品质保障、配送及时、轻松购物！$hn=www.jd.com$fl=11.5 r31$os=win$br=chrome$bv=25.0.1364.5$wb=1461724830$xb=1462517235$yb=1462583776$zb=2$cb=3$usc=p.yiqifa.com$ucp=t_36378_150_7125194$umd=tuiguang$uct=727accfb97ed4027af6c46cea1f268ca$ct=1462584142023$lt=0$tad=-$t1=2015$t2=06a$p0=Q|||http://channel.jd.com/fashion.html$cb=3$pinid=-&ref=&rm=1462584142023
+
+log.gif?t=www.100000&m=UA-J2011-1&pin=-&uid=130892713&sid=130892713|2&v=je=1$sc=32-bit$sr=1366x768$ul=zh-cn$cs=GBK$dt=服装饰品城-服装鞋帽_皮箱包包_户外用品_首饰配饰-京东$hn=channel.jd.com$fl=11.5 r31$os=win$br=chrome$bv=25.0.1364.5$wb=1461724830$xb=1462517235$yb=1462583776$zb=2$cb=14$usc=p.yiqifa.com$ucp=t_36378_150_7125194$umd=tuiguang$uct=c1eb73e5bb4245b4ab81824091a43283$lt=0$ct=1462584296604$tad=-$pinid=-&ref=&rm=1462584296609
+
+
+
+
+
+
+http://mercury.jd.com/log.gif?t=www.100000&m=UA-J2011-12&pin=-&uid=130892713&sid=130892713|2&ref=&v=je%3D1%24sc%3D32-bit%24sr%3D1366x768%24ul%3Dzh-cn%24cs%3DUTF-8%24dt%3D%E4%BA%AC%E4%B8%9C%E9%87%91%E8%9E%8D%20%E4%BA%92%E8%81%94%E7%BD%91%E7%90%86%E8%B4%A2%E7%BB%BC%E5%90%88%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%EF%BC%81%24hn%3Djr.jd.com%24fl%3D11.5%20r31%24os%3Dwin%24br%3Dchrome%24bv%3D25.0.1364.5%24wb%3D1461724830%24xb%3D1462517235%24yb%3D1462583776%24zb%3D2%24cb%3D17%24usc%3Dp.yiqifa.com%24ucp%3Dt_36378_150_7125194%24umd%3Dtuiguang%24uct%3Dc1eb73e5bb4245b4ab81824091a43283%24lt%3D0%24ct%3D1462584456476%24tad%3D-%24pinid%3D-&rm=1462584456480
+
+
+
+对用户的行为日志需要进行分类
+不同的子站有不同的点击流的标识
+定位用户点击了那个标签
+追溯用户的来源及行为轨迹
+
+用户方面
+--------------------------
+用户账号
+用户浏览器、版本号，厂家，
+用户操作系统，win，linux，Android，ios
+用户从哪里来   来源地址  refer=
+用户当前正在请求资源  请求地址 requesturl=
+
+A
+   ----B
+         ----C
+
+
+
+
+
+
+
+
+

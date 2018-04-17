@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+			<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" 
+			"http://mybatis.org/dtd/mybatis-3-config.dtd">
+			
+			<configuration>
+			
+			<properties>
+				<property name="driver" value="com.mysql.jdbc.Driver" /> 
+				<property name="url" value="jdbc:mysql://localhost/log_analyze" /> 
+				<property name="username" value="root" />
+				<property name="password" value=",.,.,,.." />		
+			</properties>
+			
+			<typeAliases>
+					<!-- 指定实体包 给该包下的所有类取别名 这样用该包下的所有类就不用区分大小写了 -->
+					<package name="cn.jxust.bigdata.loganalyze.bean"/>
+				</typeAliases>
+				
+				<environments default="development">
+					<environment id="development">
+						<transactionManager type="JDBC"></transactionManager><!-- 采用jdbc的事务的管理方式 -->
+						<dataSource type="POOLED"><!-- 采用数据连接池管理对象-->
+							<property name="driver" value="com.mysql.jdbc.Driver" /> 
+							<property name="url" value="${url}" /> 
+							<property name="username" value="${username}" /><!-- 用占位符来获取值 -->
+							<property name="password" value="${password}" />
+						</dataSource>
+					</environment>
+				</environments>
+				
+				<mappers>
+					<!-- 扫描整个包下的映射文件-->
+					<package name="cn.jxust.bigdata.loganalyze.dao"/>
+				</mappers>	
+				
+			</configuration>

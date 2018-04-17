@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/jxust/bigdata/loganalyze/bean/LogAnalyzeJob.java=UTF-8
+encoding//src/main/java/cn/jxust/bigdata/loganalyze/bean/LogAnalyzeJobDetail.java=UTF-8
+encoding//src/main/java/cn/jxust/bigdata/loganalyze/dao/LoadMapper.java=UTF-8
+encoding//src/main/java/cn/jxust/bigdata/loganalyze/dao/LogAnalyzeDao.java=UTF-8
